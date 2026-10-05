@@ -68,3 +68,7 @@ transitions
 https://www.npmjs.com/package/@subhanhq/amicro
 
 
+free APIs
+https://randomuser.me/api
+
+
